@@ -33,7 +33,7 @@ Claude Code / Claude Desktop の両方で動作します。
 
 このスキルは MF公式 MCP（リモートMCPコネクタ）を使います。**別途登録が必要**です。
 
-[mf-official-mcp-skill](https://github.com/kentaroajisaka/unofficial-official-mf-mcp-skill) の手順に従って MF公式 MCPを登録してください。
+[unofficial-official-mf-mcp-skill](https://github.com/kentaroajisaka/unofficial-official-mf-mcp-skill) の手順に従って MF公式 MCPを登録してください。
 
 ### Claude Desktop の場合
 
