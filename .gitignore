@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.mfc_token.json
+.tax_method.json
+.connected_accounts.json
+journals_*.json
+handover_*.md
+step9_reverse_map.json
